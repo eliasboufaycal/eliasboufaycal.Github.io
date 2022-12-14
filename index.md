@@ -9,11 +9,7 @@
 
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
----
 #### [DoorDash Project](https://www.linkedin.com/pulse/doordash-marketing-analysis-elias-bou-faycal/)
 [<img src="images/No Driver license needed to eat (1).png?raw=true"/>](https://www.linkedin.com/pulse/doordash-marketing-analysis-elias-bou-faycal/)
 DoorDash marketing analysis (I used Excel). The project goal was to:
