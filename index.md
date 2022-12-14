@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [Data everywhere Project](/bank)
+#### [Data everywhere](/bank)
 <img src="images/Data is everywhere.jpg?raw=true"/>
 
 
@@ -16,7 +16,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 ---
 #### [DoorDash Project](https://www.linkedin.com/pulse/doordash-marketing-analysis-elias-bou-faycal/)
 [<img src="images/No Driver license needed to eat (1).png?raw=true"/>](https://www.linkedin.com/pulse/doordash-marketing-analysis-elias-bou-faycal/)
-DoorDash marketing analysis. The project goal was to:
+DoorDash marketing analysis (I used Excel). The project goal was to:
 - Understand the data
 - Find the business oppurtunities to maximize the company profits
 - Provide recommendations to the marketing analysis team
