@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [Data everywhere](/bank)
-<img src="images/Data is everywhere.jpg?raw=true"/>
+<img src="images/data.png?raw=true"/>
 
 
 ---
