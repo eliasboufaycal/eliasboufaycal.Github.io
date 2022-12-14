@@ -4,8 +4,8 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### [Data everywhere Project](/bank)
+<img src="images/Data is everywhere.jpg?raw=true"/>
 
 
 ---
