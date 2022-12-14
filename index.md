@@ -14,7 +14,7 @@
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/doordash-marketing-analysis-elias-bou-faycal/)
+#### [DoorDash Project](https://www.linkedin.com/pulse/doordash-marketing-analysis-elias-bou-faycal/)
 [<img src="images/No Driver license needed to eat (1).png?raw=true"/>](https://www.linkedin.com/pulse/doordash-marketing-analysis-elias-bou-faycal/)
 DoorDash marketing analysis
 
