@@ -19,8 +19,8 @@ DoorDash marketing analysis (I used Excel). The project goal was to:
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+#### [Massachusetts School Project Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-elias-bou-faycal/))
+[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://[www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith](https://www.linkedin.com/pulse/massachusetts-school-project-analysis-elias-bou-faycal/?trackingId=MpvbSY9zSrajIL80w2NSlA%3D%3D))
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
