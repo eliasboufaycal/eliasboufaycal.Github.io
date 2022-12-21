@@ -27,8 +27,8 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze th
 - What are the top math schools in the state? 
 
 ---
-#### [#3 World Bank Group Finances Analysis](https://www.linkedin.com/pulse/world-bank-group-finances-elias-bou-faycal/?published=t&trackingId=ksIw4J5XvLNdvqCZ7ALGfw%3D%3D)
-[<img src="images/World Bank Finance.png?raw=true"/>](https://www.linkedin.com/pulse/world-bank-group-finances-elias-bou-faycal/?published=t&trackingId=ksIw4J5XvLNdvqCZ7ALGfw%3D%3D)
+#### [#3 World Bank Group Finances Analysis](https://www.linkedin.com/pulse/world-bank-group-finances-elias-bou-faycal/?trackingId=rqJfJdg%2BS9yqAjO7vpGkVw%3D%3D)
+[<img src="images/World Bank Finance.png?raw=true"/>](https://www.linkedin.com/pulse/world-bank-group-finances-elias-bou-faycal/?trackingId=rqJfJdg%2BS9yqAjO7vpGkVw%3D%3D)
 In this case study from Data Analytics Accelerator, I was prompted to analyze World Bank Group Financesn data (I used SQL). The main focuses were:
 
 - How many total transactions took place.
