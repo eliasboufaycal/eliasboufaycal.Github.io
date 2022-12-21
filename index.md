@@ -27,6 +27,10 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze th
 - What are the top math schools in the state? 
 
 ---
+#### [#3 World Bank Group Finances Analysis](https://www.linkedin.com/pulse/world-bank-group-finances-elias-bou-faycal/?published=t&trackingId=ksIw4J5XvLNdvqCZ7ALGfw%3D%3D)
+[<img src="images/World Bank Finance.png?raw=true"/>](https://www.linkedin.com/pulse/world-bank-group-finances-elias-bou-faycal/?published=t&trackingId=ksIw4J5XvLNdvqCZ7ALGfw%3D%3D)
+In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data (I used Tableau). The main focuses were:
+
 
 
 
