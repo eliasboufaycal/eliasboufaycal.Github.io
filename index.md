@@ -45,7 +45,7 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze He
 - Is the hospital treating patients of different races differently? The number of lab procedures done.
 - Are patients that get a lot of lab procedures, stay longer in the hospital?
 - Medical test with anyone who is African American and Up for metformin.
----
+
 
 
 
