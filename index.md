@@ -35,6 +35,17 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze Wo
 - Show all the transactions from a specific country, in this case it was Nicaragua.
 - How many total transactions per country.
 
+---
+#### [#4 Healthcare Project](https://www.linkedin.com/pulse/sql-healthcare-project-elias-bou-faycal/?published=t&trackingId=dovomge8TGOWFDty%2Fx8KWA%3D%3D)
+[<img src="images/World Bank Finance.png?raw=true"/>](https://www.linkedin.com/pulse/sql-healthcare-project-elias-bou-faycal/?published=t&trackingId=dovomge8TGOWFDty%2Fx8KWA%3D%3D)
+In this case study from Data Analytics Accelerator, I was prompted to analyze Healthcare data (I used SQL). The project goals were the following:
+
+- Duration of the stay in the hospital.
+- List of all specialties and the average total number of procedures.
+- Is the hospital treating patients of different races differently? The number of lab procedures done.
+- Are patients that get a lot of lab procedures, stay longer in the hospital?
+- Medical test with anyone who is African American and Up for metformin.
+---
 
 
 
