@@ -37,7 +37,7 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze Wo
 
 ---
 #### [#4 Healthcare Project](https://www.linkedin.com/pulse/sql-healthcare-project-elias-bou-faycal/?published=t&trackingId=dovomge8TGOWFDty%2Fx8KWA%3D%3D)
-[<img src="images/World Bank Finance.png?raw=true"/>](https://www.linkedin.com/pulse/sql-healthcare-project-elias-bou-faycal/?published=t&trackingId=dovomge8TGOWFDty%2Fx8KWA%3D%3D)
+[<img src="images/SQL Healthcare Project.png?raw=true"/>](https://www.linkedin.com/pulse/sql-healthcare-project-elias-bou-faycal/?published=t&trackingId=dovomge8TGOWFDty%2Fx8KWA%3D%3D)
 In this case study from Data Analytics Accelerator, I was prompted to analyze Healthcare data (I used SQL). The project goals were the following:
 
 - Duration of the stay in the hospital.
