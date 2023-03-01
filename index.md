@@ -47,7 +47,7 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze He
 
 ---
 #### [#5 Sports Project](https://www.linkedin.com/pulse/sports-case-study-nba-basketball-elias-bou-faycal/?trackingId=ylsJjpBeRx2QcM6RhkQw7w%3D%3D)
-[<img src="images/Jokic'.png?raw=true"/>]([https://www.linkedin.com/pulse/sql-healthcare-project-elias-bou-faycal/?published=t&trackingId=dovomge8TGOWFDty%2Fx8KWA%3D%3D](https://www.linkedin.com/pulse/sports-case-study-nba-basketball-elias-bou-faycal/?trackingId=ylsJjpBeRx2QcM6RhkQw7w%3D%3D))
+[<img src="images/Jokic'.png?raw=true"/>]([[https://www.linkedin.com/pulse/sql-healthcare-project-elias-bou-faycal/?published=t&trackingId=dovomge8TGOWFDty%2Fx8KWA%3D%3D](https://www.linkedin.com/pulse/sports-case-study-nba-basketball-elias-bou-faycal/?trackingId=ylsJjpBeRx2QcM6RhkQw7w%3D%3D)](https://www.linkedin.com/pulse/sports-case-study-nba-basketball-elias-bou-faycal/?trackingId=ylsJjpBeRx2QcM6RhkQw7w%3D%3D))
 In this case study from Data Analytics Accelerator, I was prompted to analyze Sports project (I used Tableau). The project goals were the following:
 
 - Nikola Jokić is an outlier because his performance and position do not match.
