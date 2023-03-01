@@ -45,6 +45,16 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze He
 - Is the hospital treating patients of different races differently? The number of lab procedures done.
 - Are patients that get a lot of lab procedures, stay longer in the hospital?
 
+---
+#### [#5 Sports Project](https://www.linkedin.com/pulse/sports-case-study-nba-basketball-elias-bou-faycal/?trackingId=ylsJjpBeRx2QcM6RhkQw7w%3D%3D)
+[<img src="images/ Jokic'.png?raw=true"/>]([https://www.linkedin.com/pulse/sql-healthcare-project-elias-bou-faycal/?published=t&trackingId=dovomge8TGOWFDty%2Fx8KWA%3D%3D](https://www.linkedin.com/pulse/sports-case-study-nba-basketball-elias-bou-faycal/?trackingId=ylsJjpBeRx2QcM6RhkQw7w%3D%3D))
+In this case study from Data Analytics Accelerator, I was prompted to analyze Sports project (I used Tableau). The project goals were the following:
+
+- Nikola Jokić is an outlier because his performance and position do not match.
+- Players such as James Harden was traded mid-season and it required analysis because that player appeared in 2 different teams
+- The most efficient 3-point shooter in every team and their position.
+- Total points scored by each team, and the highest scorer in the NBA 2022 season.
+
 
 
 
